@@ -4,7 +4,7 @@ public class SharedData
 	private boolean [] winArray;
 	private boolean flag;
 	private final int b;
-	private int jojo = 2;
+	
 	
 	public SharedData(int[] array, int b) {
 		
